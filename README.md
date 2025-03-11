@@ -1,6 +1,7 @@
-# testowe5
+# testowe5 - dopisujemy 
 
-pierwsza linijka
+pierwsza
 druga samodzielna linijka
-trzecia linijka9
-coś sobie dopisuje 
+
+dopisuje cos
+
