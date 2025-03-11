@@ -1,4 +1,5 @@
-# testowe5 - dopisujemy cos
+# testowe5 - dopisujemy 
 
-pierwsza linijka
+pierwsza
 druga samodzielna linijka
+dopisuje cos
