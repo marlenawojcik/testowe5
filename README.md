@@ -4,4 +4,5 @@ pierwsza
 druga samodzielna linijka
 
 dopisuje cos
+dopisuje cos w  Visualu
 
